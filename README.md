@@ -2,7 +2,12 @@
 A script to show the server animated logo on fivem server
 
 
-instalation:
+# Live preview script
+
+https://ronbo-gaming.github.io/qb-logo/html/
+
+
+# instalation:
 
 upload your logo in your friend discord and take link logo
 
